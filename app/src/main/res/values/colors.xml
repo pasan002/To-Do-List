@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainn">#EDEDED</color>
+    <color name="button">#F65B2B</color>
+    <color name="purple">#BFB8FA</color>
+    <color name="purple0">#D8C6FA</color>
+    <color name="hu">#CDDC39</color>
+    <color name="p2">#673AB7</color>
+
+</resources>

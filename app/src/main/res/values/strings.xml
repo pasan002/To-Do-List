@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Mobile App</string>
+    <string name="text1">Manage tasks like a pro, every day.</string>
+    <string name="text2">Whether you\'\re handling work projects or personal errands, our app helps you stay on top of everything with ease.</string>
+    <string name="button1">Continue</string>
+    <string name="text3">Filtering</string>
+    <string name="text4">Today</string>
+    <string name="text5">1 st March : Saturday</string>
+    <string name="text6">Today</string>
+    <string name="text7">Upcoming</string>
+    <string name="text8">Search</string>
+    <string name="text9">Browse</string>
+    <string name="text10">Today</string>
+    <string name="text11">Organize your work and life-finally</string>
+    <string name="text12">Struggling to keep up with tasks? Our app helps you balance work and personal life seamlessly, so you stay stress-free and productive</string>
+    <string name="text13">Get things done with ListEase</string>
+    <string name="text14">Welcome to ListEase! Let\'\s get organized and boost your productivity</string>
+    <string name="text15">Support healthy habits</string>
+    <string name="text16">Learn how to best use ListEase</string>
+    <string name="text17">Support healthy habits</string>
+    <string name="text18">Enable gentle notification to ensure you never miss an important task</string>
+    <string name="text19">Search</string>
+    <string name="text20">Settings</string>
+    <string name="text21">Accounts</string>
+    <string name="text22">General</string>
+    <string name="text23">Personalization</string>
+    <string name="text24">Theme</string>
+    <string name="text25">App Icon</string>
+    <string name="text26">Productivity</string>
+    <string name="text27">Reminders</string>
+    <string name="text28">Notifications</string>
+    <string name="text29">Help and Feedback</string>
+    <string name="text30">About us</string>
+    <string name="text31">Privacy policy</string>
+    <string name="text32">Welcome Back!</string>
+    <string name="text33">Forgot Password ?</string>
+    <string name="text34">Sign In</string>
+    <string name="text35">Don\'\t have an account ? Sign Up</string>
+    <string name="text36">Sign In</string>
+    <string name="text37">Welcome Onboard!</string>
+    <string name="text38">Let’s help you meet up your task</string>
+    <string name="text39">Sign Up</string>
+    <string name="text40">Already have an account ? Sign In</string>
+    <string name="text41">  Enter your Full Name</string>
+    <string name="text42">  Enter your Email address </string>
+    <string name="text43">  Date of Birth</string>
+    <string name="text44">Jeson Perera</string>
+    <string name="text45">7 Mar . Friday</string>
+    <string name="text46">6 Mar . Thursday</string>
+    <string name="text47">8 Mar . Saturday</string>
+    <string name="text48">9 Mar . Sunday</string>
+    <string name="clickable_image">clickable_image</string>
+
+
+</resources>
